@@ -21,4 +21,4 @@ pip install ultralytics streamlit pytube
 - Run the app with the following command: `streamlit run app.py`
 - The app should open in a new browser window.
 
-References : https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/
+References : https://github.com/CodingMantras/yolov8-streamlit-detection-tracking
