@@ -4,9 +4,9 @@ YOLO 학습모델의 크기가 크므로 넣지 않았습니다.
 mailing_service.py 파일의 보내는 메일과 받는 메일을 지정하면 됩니다.
 
 ## Result
-<img src="https://github.com/CodingMantras/Hornet-detection-project/blob/master/1.jpg" >
-<img src="https://github.com/CodingMantras/Hornet-detection-project/blob/master/2.jpg" >
-<img src="https://github.com/CodingMantras/Hornet-detection-project/blob/master/3.jpg" >
+<img src="https://github.com/helpyouifican/Hornet-detection-project/blob/main/1.jpg" >
+<img src="https://github.com/helpyouifican/Hornet-detection-project/blob/main/2.jpg" >
+<img src="https://github.com/helpyouifican/Hornet-detection-project/blob/main/3.jpg" >
 
 ## Requirements
 
