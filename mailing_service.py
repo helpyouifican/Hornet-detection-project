@@ -48,14 +48,15 @@ def Requirements_sending_mail(count, mail_count, file_name,first_send_time):
 def mail_send(file_name):
     SMTP_SERVER = 'smtp.naver.com'
     SMTP_SSL_PORT = 587
-    sender_email = "youra910@naver.com"
+    #sender_email = "메일명@naver.com" 보내는 사람 네이버 이메일
+    sender_email = "메일명@naver.com"
     #password = getpass.getpass("Passward:Ccdbfk9282")
     password = "Ccdbfk9282"
     
 
     
-    #receiver_email = input("보낼 사람 email 입력 : ")
-    receiver_email = "youra910@naver.com"
+    #receiver_email = "메일명@naver.com" 받는 사람 네이버 이메일
+    receiver_email = "메일명@naver.com"
     
     file = file_name.split('/')[-1]
     #file = file_size(file_path, file)
