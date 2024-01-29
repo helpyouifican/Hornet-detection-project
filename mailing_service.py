@@ -50,8 +50,8 @@ def mail_send(file_name):
     SMTP_SSL_PORT = 587
     #sender_email = "메일명@naver.com" 보내는 사람 네이버 이메일
     sender_email = "메일명@naver.com"
-    #password = getpass.getpass("Passward:Ccdbfk9282")
-    password = "Ccdbfk9282"
+    #password = getpass.getpass("Passward:asdfsdfasdf2")
+    password = "12314asdf82"
     
 
     
